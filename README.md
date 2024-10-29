@@ -34,8 +34,17 @@ In the future, HealthyHabitsAI could be expanded to integrate data from wearable
 ## Acknowledgments
 This project was inspired by the need to improve well-being during work and study routines.
 
+## Operation Flowchart
 ![Fluxograma](https://github.com/pacocj/HealthyHabitsAI/blob/main/1_Fluxograma%20de%20Funcionamento.png?raw=true)
+
+## User Goals
 ![Status utilizador](https://github.com/pacocj/HealthyHabitsAI/blob/main/2_Simula%C3%A7%C3%A3o%20de%20Interface%20do%20Utilizador.png?raw=true)
+
+## Healthy habits notification
 ![Notificações](https://github.com/pacocj/HealthyHabitsAI/blob/main/3_Exemplo%20de%20Notifica%C3%A7%C3%B5es%20de%20H%C3%A1bitos%20Saud%C3%A1veis.png?raw=true)
+
+## Diagram
 ![Diagrama](https://github.com/pacocj/HealthyHabitsAI/blob/main/4_Diagrama%20de%20Blocos%20do%20Sistema.png?raw=true)
+
+## User interface
 ![Interface do utilizador](https://github.com/pacocj/HealthyHabitsAI/blob/main/5_Interface%20de%20utilizador.png?raw=true)
